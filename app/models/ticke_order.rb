@@ -1,3 +1,3 @@
 class TickeOrder < ApplicationRecord
-  has_many :Ticket
+  has_many :tickets
 end
